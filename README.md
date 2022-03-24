@@ -1,3 +1,2 @@
-# spring
-22.3.24
-ssm、spring boot 仓库
+学生信息管理系统
+根据尚硅谷ssm系统写的
